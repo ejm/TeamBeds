@@ -1,0 +1,16 @@
+team remove white_bed
+team remove orange_bed
+team remove magenta_bed
+team remove light_blue_bed
+team remove yellow_bed
+team remove lime_bed
+team remove pink_bed
+team remove gray_bed
+team remove light_gray_bed
+team remove cyan_bed
+team remove blue_bed
+team remove purple_bed
+team remove green_bed
+team remove brown_bed
+team remove red_bed
+team remove black_bed
